@@ -1,0 +1,43 @@
+.navbar{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:rgb(77, 74, 74);
+    color:white;
+    width:none;
+}
+
+.categories-list{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    color:white;
+    width:50%;
+    font-weight: bold;
+    padding:10px;
+}
+
+.link{
+    text-decoration: none;
+    color:white;
+}
+
+.search-element{
+    height:40px;
+    width:70%;
+}
+
+.search-btn{
+    height:40px;
+    width:70px;
+    background-color:grey;
+    border-width:0px;
+    margin-left:10px;
+    color:white;
+}
+
+
+
+

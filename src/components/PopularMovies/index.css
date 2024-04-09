@@ -1,0 +1,35 @@
+.popular-movies-page{
+    background-color:black;
+    color:white;
+    width:none;
+}
+
+.movies-list{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    width:100%;
+}
+
+.loader{
+    height:100vh;
+    width:none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pagination{
+    align-self: center;
+    width:none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+button{
+    background-color:transparent;
+    border-width:0px;
+}
